@@ -1,0 +1,8 @@
+email,first_name,last_name,is_active
+david@test.com,David,Hilbert,true
+georg@test.com,Georg,Cantor,true
+joseph@test.com,Joseph,Fourier,true
+leon@test.com,Leonhard,Euler,true
+srinivasa@test.com,Srinivasa,Ramanujan,true
+blaise@test.com,Blaise,Pascal,true
+bernhard@test.com,Bernhard,Riemann,true
