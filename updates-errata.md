@@ -3,6 +3,9 @@ This page lists updates made to the course since launch and any known errata/cor
 
 ## Course Update History
 
+### 24th June, 2019 
+- Added entire new chapter "Views and functions"
+
 ### 7th June, 2019 
 - Minor correction in Chapter 5 "Number data types" video
 - Minor correction in Chapter 5 "Date and time data types" video
