@@ -3,8 +3,11 @@ This page lists updates made to the course since launch and any known errata/cor
 
 ## Course Update History
 
+### 27th June, 2019 
+- Fixed error in Exercise 4.7 solution
+
 ### 26th June, 2019 
-- Fixed error in Exercise 6.8
+- Fixed error in Exercise 6.8 solution
 
 ### 24th June, 2019 
 - Added entire new chapter "Views and functions"
