@@ -3,6 +3,9 @@ This page lists updates made to the course since launch and any known errata/cor
 
 ## Course Update History
 
+### 3rd October, 2019 
+- Added new chapter "Query performance and indexing"
+
 ### 27th June, 2019 
 - Fixed error in Exercise 4.7 solution
 
